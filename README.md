@@ -1,3 +1,2 @@
 <img src="./GitHub Cover.png">
-
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovooker&count_private=true&include_all_commits=true&custom_title=My%20Stats&show_icons=true&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovooker&layout=compact&&langs_count=7&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&custom_title=My%20Languages)](https://github.com/anuraghazra/github-readme-stats)
