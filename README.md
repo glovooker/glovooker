@@ -1,1 +1,1 @@
-<img src="./GitHub Cover.png">
+<img src="./GitHubCover.png">
