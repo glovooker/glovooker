@@ -1,5 +1,12 @@
 <img src="./GitHub Cover.png">
 
+
+<div align="center">
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=glovooker.glovooker&left_color=grey&right_color=blue)
+
+</div>
+
 ---
 
 # I'm a Full Stack Software Engineer💻 with a Graphic Designer Complex🎨
@@ -14,7 +21,11 @@ I spend most of my time improving my skills to create amazing digital products t
 - 🎌 I also love anime, I'm currently watching 📕[*Classroom of the Elite - Season 2*](https://beta.crunchyroll.com/series/GRVN8MNQY/classroom-of-the-elite).
 - 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
 
+<div align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&redirect=true)
+
+</div>
 
 ---
 
@@ -33,6 +44,9 @@ I spend most of my time improving my skills to create amazing digital products t
 # My Tech Stack🌠
 
 ## Front End🌌
+
+<div align="center">
+
 [![html5](https://user-images.githubusercontent.com/57118727/190884596-bdac7c60-5171-46a3-92ba-f45bce1063be.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;&nbsp;&nbsp;
 [![css3](https://user-images.githubusercontent.com/57118727/190884671-9c72f33a-7097-40ec-a9ab-f2b8cf0dbd05.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;&nbsp;&nbsp;
 [![javascript](https://user-images.githubusercontent.com/57118727/190884726-4e975374-1d74-426f-9ed0-cfe131bb5544.svg)](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;
@@ -45,28 +59,52 @@ I spend most of my time improving my skills to create amazing digital products t
 [![gatsby](https://user-images.githubusercontent.com/57118727/190885677-0fa20bc0-3ea4-411d-90c2-cd79a6cc75b7.svg)](https://www.gatsbyjs.com/)&nbsp;&nbsp;&nbsp;
 [![babel](https://user-images.githubusercontent.com/57118727/190886168-9967da4e-c7d8-4b2c-a8c0-5135e783648e.svg)](https://babeljs.io/)&nbsp;&nbsp;&nbsp;
 
+</div>
 
 ## Back End🧬
+
+<div align="center">
+
 [![nodedotjs](https://user-images.githubusercontent.com/57118727/190885133-9891989f-3ec0-404b-b346-c50ce8545cd3.svg)](https://nodejs.org/)&nbsp;&nbsp;&nbsp;
 [![csharp](https://user-images.githubusercontent.com/57118727/190885223-b727a1d1-64c4-4df1-9fd7-743d979c85ef.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;
 [![dotnet](https://user-images.githubusercontent.com/57118727/190885095-b17a6ce2-f164-42ab-8915-ac6389cc5533.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)&nbsp;&nbsp;&nbsp;
+
+</div>
+
+## Databases🔑
+
+<div align="center">
+
 [![mysql](https://user-images.githubusercontent.com/57118727/190885517-4c62520e-1a2e-4e86-923a-f07f7fd341d9.svg)](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;
 [![microsoftsqlserver](https://user-images.githubusercontent.com/57118727/190885521-cc4f487c-41f9-4e78-bbec-5fb587b3b482.svg)](https://www.microsoft.com/en-us/sql-server)&nbsp;&nbsp;&nbsp;
 [![graphql](https://user-images.githubusercontent.com/57118727/190885747-1295b6c5-e57c-48f7-b7b9-df965d48c765.svg)](https://graphql.org/)&nbsp;&nbsp;&nbsp;
-[![postman](https://user-images.githubusercontent.com/57118727/190885775-52d56434-cc8c-4271-a967-fa1e6a612ec5.svg)](https://www.postman.com/)&nbsp;&nbsp;&nbsp;
+
+</div>
 
 ## Cloud Services☁️
+
+<div align="center">
+
 [![amazonaws](https://user-images.githubusercontent.com/57118727/190885833-1937718a-1faa-481c-be60-3a22f2603e7e.svg)](https://aws.amazon.com/)&nbsp;&nbsp;&nbsp;
 [![heroku](https://user-images.githubusercontent.com/57118727/190885930-55e1db7a-3ed8-4c68-84b8-3e5457290898.svg)](https://www.heroku.com/)&nbsp;&nbsp;&nbsp;
 [![firebase](https://user-images.githubusercontent.com/57118727/190885935-ea16f3af-5d23-4a2f-bd60-07a9dcbf7d52.svg)](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;
 
+</div>
 
-## DevOps♾️
+## DevOps & Tools♾️
+
+<div align="center">
+
 [![git](https://user-images.githubusercontent.com/57118727/190886053-e370382e-2af5-4525-8d0e-618721f5cefb.svg)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;
 [![github](https://user-images.githubusercontent.com/57118727/190886078-f1af8d59-9996-45fa-a492-673493a1fc89.svg)](https://github.com/)&nbsp;&nbsp;&nbsp;
 [![githubactions](https://user-images.githubusercontent.com/57118727/190886081-acfc42ca-220d-4d54-aeb5-2226fd40099e.svg)](https://github.com/features/actions)&nbsp;&nbsp;&nbsp;
+[![postman](https://user-images.githubusercontent.com/57118727/190885775-52d56434-cc8c-4271-a967-fa1e6a612ec5.svg)](https://www.postman.com/)&nbsp;&nbsp;&nbsp;
+
+</div>
 
 ## Designing🎨
+
+<div align="center">
 
 [![figma](https://user-images.githubusercontent.com/57118727/190886562-8df10998-5965-44cb-bb55-3974c6cf75d9.svg)](https://www.figma.com/)&nbsp;&nbsp;&nbsp;
 [![adobeaftereffects](https://user-images.githubusercontent.com/57118727/190886338-0dc3d513-c99b-4676-9b06-d8be34cb058c.svg)](https://www.adobe.com/products/aftereffects.html)&nbsp;&nbsp;&nbsp;
@@ -76,6 +114,8 @@ I spend most of my time improving my skills to create amazing digital products t
 [![adobephotoshop](https://user-images.githubusercontent.com/57118727/190886364-0610c4a0-a816-471e-98d1-036bfd121b3d.svg)](https://www.adobe.com/products/photoshop.html)&nbsp;&nbsp;&nbsp;
 [![adobepremierepro](https://user-images.githubusercontent.com/57118727/190886366-2320192c-e4a4-466d-af56-a6acfd8dd184.svg)](https://www.adobe.com/products/premiere.html)&nbsp;&nbsp;&nbsp;
 [![blender](https://user-images.githubusercontent.com/57118727/190886371-603e3e59-ca87-4cd2-8dab-252f6a341ec7.svg)](https://www.blender.org/)&nbsp;&nbsp;&nbsp;
+
+</div>
 
 ---
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovooker&count_private=true&include_all_commits=true&custom_title=My%20Stats&show_icons=true&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovooker&layout=compact&&langs_count=7&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&custom_title=My%20Languages)](https://github.com/anuraghazra/github-readme-stats)
