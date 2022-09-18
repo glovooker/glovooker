@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Software Engineer💻 with a Graphic Designer Complex🎨
 
-I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with an Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Front End Oriented Software Engineer at 🐋Mobydyg, an ecommerce startup. 
+I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Front End Oriented Software Engineer at 🐋Mobydyg, an ecommerce startup. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
 
 ### More About Me🧐
 
@@ -30,9 +30,20 @@ I spend most of my time improving my skills to create amazing digital products t
 [![sass](https://user-images.githubusercontent.com/57118727/190883038-b8f135a2-8d59-4d81-9e45-9b485b8ae8d2.svg)](https://sass-lang.com/)&nbsp;&nbsp;&nbsp;
 
 ### Back End🧬
+[![nodedotjs](https://user-images.githubusercontent.com/57118727/190885133-9891989f-3ec0-404b-b346-c50ce8545cd3.svg)](https://nodejs.org/)&nbsp;&nbsp;&nbsp;
+[![csharp](https://user-images.githubusercontent.com/57118727/190885223-b727a1d1-64c4-4df1-9fd7-743d979c85ef.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;
+[![dotnet](https://user-images.githubusercontent.com/57118727/190885095-b17a6ce2-f164-42ab-8915-ac6389cc5533.svg)](https://dotnet.microsoft.com/en-us/apps/aspnet)&nbsp;&nbsp;&nbsp;
+
+### Cloud Services☁️
+
+### DevOps♾️
+
+### Designing🎨
+
 ---
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovooker&count_private=true&include_all_commits=true&custom_title=My%20Stats&show_icons=true&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovooker&layout=compact&&langs_count=7&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&custom_title=My%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
