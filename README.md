@@ -22,8 +22,6 @@ I spend most of my time improving my skills to create amazing digital products t
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 
 # My Tech Stack🌠
