@@ -28,7 +28,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&redirect=true)
 
 </div>
 
