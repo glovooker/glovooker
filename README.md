@@ -37,18 +37,6 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/glovooker/BISOFT-07/pull/2) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-2. 🎉 Merged PR [#1](https://github.com/glovooker/BISOFT-07/pull/1) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-3. 💪 Opened PR [#1](https://github.com/glovooker/BISOFT-07/pull/1) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-4. 💪 Opened PR [#1](https://github.com/glovooker/staries/pull/1) in [glovooker/staries](https://github.com/glovooker/staries)
-5. 🎉 Merged PR [#3](https://github.com/glovooker/clean-course/pull/3) in [glovooker/clean-course](https://github.com/glovooker/clean-course)
-<!--END_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/glovooker/BISOFT-07/pull/2) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-2. 🎉 Merged PR [#1](https://github.com/glovooker/BISOFT-07/pull/1) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-3. 💪 Opened PR [#1](https://github.com/glovooker/BISOFT-07/pull/1) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
-4. 💪 Opened PR [#1](https://github.com/glovooker/staries/pull/1) in [glovooker/staries](https://github.com/glovooker/staries)
-5. 🎉 Merged PR [#3](https://github.com/glovooker/clean-course/pull/3) in [glovooker/clean-course](https://github.com/glovooker/clean-course)
-
 
 ---
 
