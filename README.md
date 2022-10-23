@@ -37,11 +37,11 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
+1. 💪 Opened PR [#594](https://github.com/reactjs/es.reactjs.org/pull/594) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
 2. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
-3. 🎉 Merged PR [#1](https://github.com/glovooker/counter-app-vite/pull/1) in [glovooker/counter-app-vite](https://github.com/glovooker/counter-app-vite)
-4. 💪 Opened PR [#1](https://github.com/glovooker/counter-app-vite/pull/1) in [glovooker/counter-app-vite](https://github.com/glovooker/counter-app-vite)
-5. 🎉 Merged PR [#4](https://github.com/glovooker/BISOFT-07/pull/4) in [glovooker/BISOFT-07](https://github.com/glovooker/BISOFT-07)
+3. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
+4. 🎉 Merged PR [#1](https://github.com/glovooker/counter-app-vite/pull/1) in [glovooker/counter-app-vite](https://github.com/glovooker/counter-app-vite)
+5. 💪 Opened PR [#1](https://github.com/glovooker/counter-app-vite/pull/1) in [glovooker/counter-app-vite](https://github.com/glovooker/counter-app-vite)
 <!--END_SECTION:activity-->
 
 ---
