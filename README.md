@@ -22,7 +22,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
 - 📚 I'm a library mouse, currently reading [*Think and Grow Rich*](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331) by Napoleon Hill.
-- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* (currently rewatching) and ⚖️*Better Call Saul*.
+- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖️*Better Call Saul* (currently rewatching).
 - 🎌 I also love anime, I'm currently watching 🕵🏻[*SPY x FAMILY*](https://beta.crunchyroll.com/series/G4PH0WXVJ/spy-x-family).
 - 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
 
