@@ -37,11 +37,11 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
-2. 💪 Opened PR [#594](https://github.com/reactjs/es.reactjs.org/pull/594) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
-3. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
-4. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
-5. 🎉 Merged PR [#1](https://github.com/glovooker/counter-app-vite/pull/1) in [glovooker/counter-app-vite](https://github.com/glovooker/counter-app-vite)
+1. 🎉 Merged PR [#2](https://github.com/glovooker/glovooker-portfolio/pull/2) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+2. 💪 Opened PR [#2](https://github.com/glovooker/glovooker-portfolio/pull/2) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+3. 🎉 Merged PR [#1](https://github.com/glovooker/glovooker-portfolio/pull/1) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+4. 💪 Opened PR [#1](https://github.com/glovooker/glovooker-portfolio/pull/1) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+5. 🗣 Commented on [#500](https://github.com/reactjs/es.reactjs.org/issues/500) in [reactjs/es.reactjs.org](https://github.com/reactjs/es.reactjs.org)
 <!--END_SECTION:activity-->
 
 ---
