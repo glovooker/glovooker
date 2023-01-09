@@ -16,14 +16,14 @@
 
 # I'm a Full Stack Software Engineer💻 with a Graphic Designer Complex🎨
 
-I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Front End Oriented Software Engineer at 🐋Mobydyg, an e-commerce startup. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
+I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Front End Oriented Software Engineer at 🖤Noir, an my software agency. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
 
 ### More About Me🧐
 
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
 - 📚 I'm a library mouse, currently reading [*Think and Grow Rich*](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331) by Napoleon Hill.
 - 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖️*Better Call Saul* (currently rewatching).
-- 🎌 I also love anime, I'm currently watching 🕵🏻[*SPY x FAMILY*](https://beta.crunchyroll.com/series/G4PH0WXVJ/spy-x-family).
+- 🎌 I also love anime, I'm currently watching 🎸[*BOCCHI THE ROCK!*](https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock).
 - 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
 
 <div align="center">
