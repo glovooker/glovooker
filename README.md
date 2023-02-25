@@ -37,11 +37,11 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/glovooker/glovooker-portfolio/pull/11) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-2. 💪 Opened PR [#11](https://github.com/glovooker/glovooker-portfolio/pull/11) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-3. 🎉 Merged PR [#10](https://github.com/glovooker/glovooker-portfolio/pull/10) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-4. 💪 Opened PR [#10](https://github.com/glovooker/glovooker-portfolio/pull/10) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-5. 🎉 Merged PR [#9](https://github.com/glovooker/glovooker-portfolio/pull/9) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+1. 🎉 Merged PR [#12](https://github.com/glovooker/glovooker-portfolio/pull/12) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+2. 💪 Opened PR [#12](https://github.com/glovooker/glovooker-portfolio/pull/12) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+3. 🎉 Merged PR [#11](https://github.com/glovooker/glovooker-portfolio/pull/11) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+4. 💪 Opened PR [#11](https://github.com/glovooker/glovooker-portfolio/pull/11) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+5. 🎉 Merged PR [#10](https://github.com/glovooker/glovooker-portfolio/pull/10) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
 <!--END_SECTION:activity-->
 
 ---
