@@ -2,8 +2,6 @@
 
 
 <div align="center">
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=glovooker.glovooker&left_color=grey&right_color=blue)
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glovooker/)&nbsp;&nbsp;&nbsp;
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22amkp7g36l2rkiixeuwwiyey?si=6f859ef92c124ceb)&nbsp;&nbsp;&nbsp;
