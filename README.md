@@ -19,9 +19,9 @@ I spend most of my time improving my skills to create amazing digital products t
 ### More About Me🧐
 
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
-- 📚 I'm a library mouse, currently reading [*Read People Like a Book*](https://www.amazon.com/gp/product/B08PT6S7ZW?ref_=dbs_p_pwh_rwt_anx_cl_0&storeType=ebooks) by Patrick King.
-- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖️*Better Call Saul*.
-- 🎌 I also love anime, I'm currently watching 🎸[*BOCCHI THE ROCK!*](https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock).
+- 📚 I'm a library mouse, currently reading [*The 48 Laws of Power*](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) by Robert Greene.
+- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖*Better Call Saul*. Currently watching 👥*Succession*.
+- 🎌 I also love anime, I'm currently watching 📚[*My Teen Romantic Comedy SNAFU*](https://www.crunchyroll.com/series/GYNQJ8GXY/my-teen-romantic-comedy-snafu).
 - 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
 
 <div align="center">
