@@ -32,7 +32,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 ---
 
-## What I've Been Up To🚀
+## What I've Been Up To 🚀
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#14](https://github.com/glovooker/glovooker-portfolio/pull/14) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
@@ -44,9 +44,9 @@ I spend most of my time improving my skills to create amazing digital products t
 
 ---
 
-# My Tech Stack🌠
+# My Tech Stack 🌠
 
-## Front End🌌
+## Front End 🌌
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 </div>
 
-## Back End🧬
+## Back End 🧬
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 </div>
 
-## Databases🔑
+## Databases 🔑
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 </div>
 
-## Cloud Services☁️
+## Cloud Services ☁️
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 </div>
 
-## DevOps & Tools♾️
+## DevOps & Tools ♾️
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I spend most of my time improving my skills to create amazing digital products t
 
 </div>
 
-## Designing🎨
+## Designing 🎨
 
 <div align="center">
 
