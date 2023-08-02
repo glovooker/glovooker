@@ -12,16 +12,16 @@
 
 ---
 
-# I'm a Full Stack Software Engineer💻 with a Graphic Designer Complex🎨
+# I'm a Full Stack Software Engineer💻 with a Designer Complex🎨
 
-I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Front End Oriented Software Engineer at 🖤Noir, my technology agency. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
+I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Software Engineer at 🖤Noir, my technology agency, and as a Full Stack Web Developer at 👁🐝Ⓜ️. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
 
 ### More About Me🧐
 
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
 - 📚 I'm a library mouse, currently reading [*The 48 Laws of Power*](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) by Robert Greene.
 - 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖*Better Call Saul*. Currently watching 👥*Succession*.
-- 🎌 I also love anime, I'm currently watching 📚[*My Teen Romantic Comedy SNAFU*](https://www.crunchyroll.com/series/GYNQJ8GXY/my-teen-romantic-comedy-snafu).
+- 🎌 I also love anime, I'm currently watching 🏹[*Vinland Saga*](https://www.crunchyroll.com/series/GEXH3WKK0/vinland-saga).
 - 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
 
 <div align="center">
@@ -119,12 +119,3 @@ I spend most of my time improving my skills to create amazing digital products t
 [![blender](https://user-images.githubusercontent.com/57118727/190886371-603e3e59-ca87-4cd2-8dab-252f6a341ec7.svg)](https://www.blender.org/)&nbsp;&nbsp;&nbsp;
 
 </div>
-
----
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=glovooker&count_private=true&include_all_commits=true&custom_title=My%20Stats&show_icons=true&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glovooker&layout=compact&&langs_count=7&bg_color=11123F&title_color=FFFFFF&text_color=c4c4cf&icon_color=c4c4cf&border_radius=0&hide_border=true&custom_title=My%20Languages)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
