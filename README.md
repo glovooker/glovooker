@@ -35,11 +35,11 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To 🚀
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/glovooker/glovooker-portfolio/pull/18) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-2. 💪 Opened PR [#18](https://github.com/glovooker/glovooker-portfolio/pull/18) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-3. 🎉 Merged PR [#17](https://github.com/glovooker/glovooker-portfolio/pull/17) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-4. 💪 Opened PR [#17](https://github.com/glovooker/glovooker-portfolio/pull/17) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
-5. 🎉 Merged PR [#16](https://github.com/glovooker/glovooker-portfolio/pull/16) in [glovooker/glovooker-portfolio](https://github.com/glovooker/glovooker-portfolio)
+1. 🗣 Commented on [#1](https://github.com/glovooker/BISOFT-17-UniversidadAPI/issues/1#issuecomment-1782237294) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+2. 🎉 Merged PR [#2](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/2) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+3. 💪 Opened PR [#2](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/2) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+4. 🗣 Commented on [#1](https://github.com/glovooker/BISOFT-17-UniversidadAPI/issues/1#issuecomment-1782229099) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+5. ❗ Opened issue [#1](https://github.com/glovooker/BISOFT-17-UniversidadAPI/issues/1) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
 <!--END_SECTION:activity-->
 
 ---
