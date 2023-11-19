@@ -35,11 +35,11 @@ I spend most of my time improving my skills to create amazing digital products t
 ## What I've Been Up To 🚀
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/glovooker/BISOFT-17-UniversidadAPI/issues/1#issuecomment-1805208091) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
-2. 🎉 Merged PR [#3](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/3) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
-3. 🗣 Commented on [#3](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/3#issuecomment-1805206635) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
-4. 🎉 Merged PR [#5](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/5) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
-5. 🗣 Commented on [#5](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/5#issuecomment-1805200979) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+1. 🎉 Merged PR [#12](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/12) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+2. 🎉 Merged PR [#11](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/11) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+3. 🎉 Merged PR [#10](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/10) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+4. 🎉 Merged PR [#9](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/9) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
+5. 💪 Opened PR [#9](https://github.com/glovooker/BISOFT-17-UniversidadAPI/pull/9) in [glovooker/BISOFT-17-UniversidadAPI](https://github.com/glovooker/BISOFT-17-UniversidadAPI)
 <!--END_SECTION:activity-->
 
 ---
