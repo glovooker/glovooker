@@ -14,7 +14,7 @@
 
 # I'm a Full Stack Software Engineer💻 with a Designer Complex🎨
 
-I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Software Engineer at 🖤Noir, my technology agency, and as a Full Stack Developer at 👁🐝Ⓜ️. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
+I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Software Engineer at 🖤NOIR Technologies, my software consulting agency, and as a Senior Full Stack Developer at 👁🐝Ⓜ️. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
 
 ### More About Me🧐
 
