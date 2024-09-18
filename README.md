@@ -21,7 +21,7 @@ I spend most of my time improving my skills to create amazing digital products t
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
 - 📚 I'm a library mouse, currently reading [*The 48 Laws of Power*](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) by Robert Greene.
 - 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖*Better Call Saul*. Currently watching 🐎*Peaky Blinders*.
-- 🎌 I also love anime, I'm currently watching 🏹[*Kaiju No. 8*](https://www.crunchyroll.com/series/GG5H5XQ7D/kaiju-no-8).
+- 🎌 I also love anime, I'm currently watching 👺[*Kaiju No. 8*](https://www.crunchyroll.com/series/GG5H5XQ7D/kaiju-no-8).
 
 ---
 
