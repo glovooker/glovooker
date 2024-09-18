@@ -12,23 +12,16 @@
 
 ---
 
-# I'm a Full Stack Software Engineer💻 with a Designer Complex🎨
+# 👋🏻 I'm a Software Engineer with Big Passion for Technology
 
-I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an active [UCenfotec](https://ucenfotec.ac.cr/) Ambassador honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as a Full Stack Software Engineer at 🖤NOIR Technologies, my software consulting agency, and as a Senior Full Stack Developer at 👁🐝Ⓜ️. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
+I spend most of my time improving my skills to create amazing digital products that are always up to the task. I'm an Elite Student and Ambassador at [UCenfotec](https://ucenfotec.ac.cr/), honored with The Excellence Student Scholarship. While I'm learning all I can about the magnificent tech world, I'm also working as the CEO of 🖤NOIR Technologies, my software consulting agency, and as a Senior Full Stack Developer at 👁🐝Ⓜ️. I love Agile, so I'm a certified Scrum Master and Product Owner, and I do my best to follow the bests practices and principles regarding clean coding and programming.
 
 ### More About Me🧐
 
 - 🌍 I'm working remotely from 🇨🇷Costa Rica.
 - 📚 I'm a library mouse, currently reading [*The 48 Laws of Power*](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197) by Robert Greene.
-- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖*Better Call Saul*. Currently watching 👥*Succession*.
-- 🎌 I also love anime, I'm currently watching 🏹[*Vinland Saga*](https://www.crunchyroll.com/series/GEXH3WKK0/vinland-saga).
-- 🎧 Can't code without music, you can see what I'm listening to right now down below👇🏻.
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22amkp7g36l2rkiixeuwwiyey&redirect=true)
-
-</div>
+- 📺 I love TV shows, like, a lot. My favorite shows are 💎*Breaking Bad* and ⚖*Better Call Saul*. Currently watching 🐎*Peaky Blinders*.
+- 🎌 I also love anime, I'm currently watching 🏹[*Kaiju No. 8*](https://www.crunchyroll.com/series/GG5H5XQ7D/kaiju-no-8).
 
 ---
 
